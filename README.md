@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**Alekvallerio/Alekvallerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é alex 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://ww.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo 📫
+
+0000111634872xsp@aluno.educacao.sp.gov.br
+
+### @alek.xvi
+
+![](https://media1.tenor.com/m/zDUT9yR2Zz0AAAAd/big-buger-eat-buger.gif)
